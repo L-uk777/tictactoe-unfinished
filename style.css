@@ -1,0 +1,23 @@
+.board {
+    color:grey;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+}
+
+
+
+.cell {
+    height: 98px;
+    width: 98px;
+    color:black;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 500%
+ 
+}
